@@ -1,3 +1,3 @@
 # Python_Class
-# this file is the result of me studying Python
+# What I've Learned in Python Class, 11.2021~12.2021
 # from basic level to preprocessing
